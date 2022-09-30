@@ -1,0 +1,7 @@
+Person_age=int(input("enter the age of the person"))
+if(person_age>=18):
+Print("the person is eligible to voting")
+else:
+print ("the person is not eligible to voting")
+p=18-person_age
+Print ("the person can be allowed to vote after",p,"year")
