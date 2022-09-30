@@ -1,0 +1,5 @@
+numb = [2, 3, 5, 7, 8]
+no = len(numb)
+summ = sum(numb)
+mean = summ / no
+print("The mean or average of all these numbers (", numb, ") is", str(mean))
